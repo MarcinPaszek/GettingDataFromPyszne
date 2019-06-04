@@ -2,15 +2,18 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import json
+import subprocess
+import os
 
 with requests.Session() as c:
 
-      nasdaq_baseurl = 'https://www.pyszne.pl/'
-      nasdaq_url_restaurantname="pasibus-wroclaw-arkady-wroclawskie" #tyle wystarczy zmienić
-      nasdaq_url = nasdaq_baseurl.__add__(nasdaq_url_restaurantname)
+      pyszne_baseurl = 'https://www.pyszne.pl/'
+      pyszne_url_restaurantname="amir-kebab-katowice" #tyle wystarczy zmienić
+      pyszne_url = pyszne_baseurl.__add__(pyszne_url_restaurantname)
+      path_base = os.getcwd()
 
 
-      url_fetch = c.get(nasdaq_url)
+      url_fetch = c.get(pyszne_url)
       soup = BeautifulSoup(url_fetch.text, 'html.parser')
       pattern= re.compile(r"MenucardProducts")
       matches=pattern.finditer(soup.text)
@@ -32,7 +35,17 @@ with requests.Session() as c:
       textVariable=textVariable[listMatches1[0]:]
       textVariable='{"MenucardProducts":\n'+textVariable+'\n }'
       d = json.loads(textVariable)
-      with open(nasdaq_url_restaurantname+".json", 'w') as json_file:  
+# outside the context manager we are back wherever we started.
+      path = path_base+"/Restaurants/"+pyszne_url_restaurantname
+  
+      try:  
+          os.mkdir(path)
+      except OSError:  
+          print ("Creation of the directory %s failed" % path)
+      else:  
+          print ("Successfully created the directory %s " % path)
+      os.chdir(path)
+      with open(pyszne_url_restaurantname+".json", 'w') as json_file:  
         json.dump(d, json_file)
         json_file.close()
       productlist=""
@@ -40,11 +53,12 @@ with requests.Session() as c:
       for product in d['MenucardProducts']:
         productlist=productlist+str(product['name'])+"\n"
         pricelist=pricelist+str(product['price'])+"\n"
-      f=open(nasdaq_url_restaurantname+"_products.txt", 'w')
+      f=open(pyszne_url_restaurantname+"_products.txt", 'w')
       f.write(productlist)
       f.close()
-      g=open(nasdaq_url_restaurantname+"_prices.txt", 'w')
+      g=open(pyszne_url_restaurantname+"_prices.txt", 'w')
       g.write(pricelist)
       g.close()
+      os.chdir(path_base)
       c.close()
 #end

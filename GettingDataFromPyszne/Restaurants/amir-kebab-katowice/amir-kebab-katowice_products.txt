@@ -1,0 +1,50 @@
+Tortilla du¿a
+Tortilla œrednia
+Pita du¿a
+Pita ma³a
+Pita œrednia
+Pita du¿a
+Lady's kebab
+Doner kebab œredni
+Doner kebab du¿y
+Kebab falafel œredni
+Kebab falafel du¿y
+Tortilla œrednia
+Tortilla du¿a
+Tortilla z surówkami
+Kebab w bu³ce œredni
+Kebab w bu³ce du¿y
+Kebab burger
+Kebab box
+Posypka œrednia
+Posypka du¿a
+Zestaw kebab œredni
+Mega zestaw
+Frytki
+Zestaw Falafel
+Sa³atka bahor
+Sa³atka grecka
+Sa³atka caprese
+Sa³atka 1001
+Sa³atka z orzechami
+Sa³atka z marchewk¹
+Sa³atka z kurczaka
+Manty z wo³owin¹ 1 szt.
+Samsa z wo³owin¹ 1 szt.
+Ayran 0,25l
+Coca-cola 0,5l
+Fanta 0,5l
+Sprite 0,5l
+Woda niegazowana 0,5l
+Woda gazowana 0,5l
+Burn 0,25l
+Monster 0,35l
+Cappy 0,33l multiwitamina
+Cappy 0,33l pomarañczowy
+Cappy 0,33l truskawkowy
+Cappy 0,33l jab³kowy
+Fuzetea 0,5l brzoskwinia
+Fuzetea 0,5l hibiskus
+Fuzetea 0,5l cytryna
+Green Icetea limonka z miêt¹ 0,5l
+Green Icetea cytrusowa 0,5l
