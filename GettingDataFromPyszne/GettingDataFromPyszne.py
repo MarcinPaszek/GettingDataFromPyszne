@@ -8,7 +8,7 @@ import os
 with requests.Session() as c:
 
       pyszne_baseurl = 'https://www.pyszne.pl/'
-      pyszne_url_restaurantname="amir-kebab-katowice" #tyle wystarczy zmienić
+      pyszne_url_restaurantname="amir-kebab-katowice" #all you have to change
       pyszne_url = pyszne_baseurl.__add__(pyszne_url_restaurantname)
       path_base = os.getcwd()
 
