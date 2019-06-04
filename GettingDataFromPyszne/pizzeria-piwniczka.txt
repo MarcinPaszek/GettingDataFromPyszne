@@ -1,0 +1,140 @@
+Kotlet schabowy                          17.5
+Hamburger                          7
+Pierogi ruskie zapiekane                          11
+Barszcz ukraiñski                          8.5
+Kapuœniak                          8.5
+Zupa ogórkowa                          8.5
+Zupa pomidorowa                          8.5
+¯urek                          8.5
+Grochówka                          8.5
+Fasolka po bretoñsku                          10
+Bigos                          10
+Gulasz z kocio³ka wieprzowy                          13
+Zupa krupnik                          8.5
+Nowoœæ: Zestaw szefa                          22.5
+Filet Mintaja                          16.5
+Kotlet mielony                          17.5
+Filet z pangi                          16.5
+Filet z kurczaka                          17.5
+Lasagne Bolognese 500g                          16.5
+Lasagne Szpinakowa                          16.5
+Kasza Gryczana z gulaszem wieprzowym                          16.5
+Risotto 650g                          16.5
+Filet z kurczaka z grilla                          17.5
+Kotlet schabowy                          17.5
+Kotlet Devolaj                          18.5
+Zestaw Rzymski                          17.5
+Rzymskie Trójk¹ciki                          17.5
+Pieczeñ                          19.5
+Koperta                          19.5
+Kebab                          22.5
+Zestaw Exclussive                          20.5
+Fata Morgana                          21.5
+Zestaw Oaza                          19.5
+Zestaw Gliwicki                          20.5
+Kotlet w panierce kukurydzianej                          17.5
+Kotlet w panierce sezamowej                          19.5
+Rolada                          21.5
+Zestaw Drwala                          20.5
+Golonko ok 300-400g                          22.5
+Zestaw Leœniczego                          22.5
+Go³¹bki z sosem 2 szt.                          14
+Nowoœæ: Kurczak na Hawajach                          16
+Nowoœæ: Pizza Farmerska                          19
+Pizza Mozarella                          14
+Pizza Na Boczku                          15
+Pizza Egzotyczna                          15
+Pizza Fish                          15
+Pizza Szyneczka                          15
+Pizza Vegetariana                          15
+Pizza Salami                          15
+Pizza Peperoni                          16
+Pizza Jacka                          17
+Pizza Swojska                          16
+Pizza Piwniczka                          16
+Pizza Meksykañska                          15
+Pizza Cztery Pory Roku                          17
+Pizza Bolognese                          18
+Pizza Florencka                          16
+Pizza Vivaldi                          17
+Pizza Wegetariañska De lux                          19
+Pizza Wiosenna                          16
+Pizza z Broku³ami                          16
+Pizza Œmietanowa                          17
+Pizza Hot Chicken Chick                          17
+Pizza Serowa                          17
+Pizza Frutti Di Mare                          17
+Pizza Kurczakowa                          17
+Pizza Wielkie ¯arcie                          18
+Pizza Królewska                          18
+Pizza Szpinakowy Wypas                          18
+Pizza Kozacka Ostra                          18
+Kebab Pizza                          19
+Pizza Szefowej                          19
+Pizza Mexykañska delux                          18
+Pizza Ekstaza rzeŸnika                          21
+Pizza Kurki w œmietanie                          20
+Pizza Góralska                          19
+Pizza Studenta                          17
+Pizza Indyjska Tikka Masala                          18
+Calzone Wegetarian                          14
+Calzone Sorento                          15
+Calzone Szefa Kuchni                          15
+Calzone Szefowej                          19
+Calzone Giordano                          16
+Calzone Russo                          19
+Calzone Pitta                          17
+Calzone Kebab                          18
+Spaghetti Bolognese                          15
+Spaghetti z Pieczarkami                          15
+Spaghetti Gorgonzola                          19
+Pierogi ruskie zapiekane                          11
+Pierogi z miêsem zapiekane                          12
+Pierogi ze szpiankiem                          11
+Pierogi z kapust¹ i grzybami zapiekane                          11
+Pierogi z wêdzonym kurczakiem Nowoœæ!!                          11
+Naleœnik Truskaweczka                          14
+Nalesniki Malinówka                          14
+Naleœnik Pieczarkowy                          14
+Naleœnik z serem                          14
+Naleœnik Wiejski                          15
+Naleœniki Jagodowe                          14
+Naleœnik Wiœnia w Czekoladzie                          14
+Nalesniki Brzoskwinka                          14
+Naleœnik Egzotyczny                          16
+Naleœnik Tuniak                          16
+Naleœniki Papaja                          16
+Naleœnik Chicken                          17
+Naleœniki z nadzieniem ruskim                          17
+Zapiekanka                          7
+Hot Dog                          7
+Hamburger                          7
+Bagietka z nadzieniem kurczakowym                          14
+Kebab                          15
+Placki ziemniaczne 3szt.                          10
+Placki po wêgiersku                          14
+Warzywa gotowane                          9
+Sa³atka Hawajska                          15
+Sa³atka W³oska                          15
+Sa³atka Tuñczykowa                          15
+Sa³atka Kurczakowa                          16
+Frytki du¿e                          7
+Frytki firmowe                          10
+Frytki szefa                          13
+Sos czosnkowy 200ml                          4.5
+Sos pomidorowy 200ml                          4.5
+Sos pomidorowy ostry 200ml                          4.5
+Sos gyros 200ml                          4.5
+Sos serowy 200ml                          4.5
+Sos chilli 50ml                          4.5
+Sos chrzanowy 200ml                          4.5
+Sos duñski 200ml                          4.5
+Tymbark jab³ko-miêta 0,25l                          2.5
+Tymbark jab³ko-wiœnia 0,25l                          2.5
+Tymbark malina-miêta 0,25l                          2.5
+Tymbark pomarañcza-brzoskwinia 0,25l                          2.5
+Coca-cola 0,5l                          4.5
+Coca-cola 1l                          5.5
+Fanta 0,5l                          4.5
+Sprite 0,5l                          4.5
+Lipton brzoskwiniowy 0,5l                          4.5
