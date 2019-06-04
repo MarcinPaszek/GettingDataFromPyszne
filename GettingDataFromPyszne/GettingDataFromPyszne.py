@@ -8,7 +8,7 @@ import os
 with requests.Session() as c:
 
       pyszne_baseurl = 'https://www.pyszne.pl/'
-      pyszne_url_restaurantname="amir-kebab-katowice" #all you have to change
+      pyszne_url_restaurantname="ro-ma-smaki-swiata" #all you have to change
       pyszne_url = pyszne_baseurl.__add__(pyszne_url_restaurantname)
       path_base = os.getcwd()
 
@@ -35,7 +35,6 @@ with requests.Session() as c:
       textVariable=textVariable[listMatches1[0]:]
       textVariable='{"MenucardProducts":\n'+textVariable+'\n }'
       d = json.loads(textVariable)
-# outside the context manager we are back wherever we started.
       path = path_base+"/Restaurants/"+pyszne_url_restaurantname
   
       try:  
