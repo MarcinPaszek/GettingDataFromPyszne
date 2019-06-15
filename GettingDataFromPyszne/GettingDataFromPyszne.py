@@ -8,7 +8,7 @@ import os
 with requests.Session() as c:
 
       pyszne_baseurl = 'https://www.pyszne.pl/'
-      pyszne_url_restaurantname="ro-ma-smaki-swiata" #all you have to change
+      pyszne_url_restaurantname="kapadocja-kebab-sikornik" #all you have to change
       pyszne_url = pyszne_baseurl.__add__(pyszne_url_restaurantname)
       path_base = os.getcwd()
 
@@ -44,7 +44,7 @@ with requests.Session() as c:
       else:  
           print ("Successfully created the directory %s " % path)
       os.chdir(path)
-      with open(pyszne_url_restaurantname+".json", 'w') as json_file:  
+      with open(pyszne_url_restaurantname+".json", 'w', newline='\n') as json_file:  
         json.dump(d, json_file)
         json_file.close()
       productlist=""
